@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Aws-star/tinyapp/issues"
   },
-  "homepage": "https://github.com/Aws-star/tinyapp#readme"
+  "homepage": "https://github.com/Aws-star/tinyapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
